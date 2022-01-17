@@ -1,12 +1,12 @@
 Ejercicios SQL
 1.  Seleccionar todos los empleados de la tabla empleados.
-2.  Agregar el campo 'salario_usd' a la tabla empleados.
-3.  Actualizar el campo salario con su equivalente en guaranies utilizando la cotizacion vigente.
-4.  Listar a todas las empleadas y ordenar por antigüedad, de mayor a menor.
-5.  Listar todos los empleados que contengan una letra “N” en el nombre, ordenar de forma ascendente por departamento y por salario de forma descendente.
-6.  Seleccionar nombre, apellido y edad (la edad debe ser calculada en base a la fecha de nacimiento).
-7.  Resumir cantidad de funcionarios por sexo (dos columnas, una para sexo y otra haciendo un conteo).
-8.  Obtener el menor y mayor salario de la tabla de empleados.
+2.  Listar a todas las empleadas y ordenar por antigüedad, de mayor a menor.
+3.  Listar todos los empleados que contengan una letra “N” en el nombre, ordenar de forma ascendente por departamento y por salario de forma descendente.
+4.  Seleccionar nombre, apellido y edad (la edad debe ser calculada en base a la fecha de nacimiento).
+5.  Resumir cantidad de funcionarios por sexo (dos columnas, una para sexo y otra haciendo un conteo).
+6.  Obtener el menor y mayor salario de la tabla de empleados.
+7.  Crear una tabla de cotizaciones con los siguientes campos: fecha, moneda y valor.
+8.  Listar todos los empleados con su salario en guaraníes utilizando la cotización del día.
 9.  Seleccionar nombre del departamento, nombre y apellido del empleado.
 10. Hacer un resumen del salario promedio por departamento (una columna mostrando el nombre del departamento y otra el promedio del salario).
 11. Seleccionar todos los empleados varones y almacenar en una nueva tabla llamada empleados_h.
